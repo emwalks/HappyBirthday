@@ -10,4 +10,5 @@ Techniques implemented & Learnings:
 - Using the layout editor
 - Using resource manager
 
-![Image of App](https://raw.githubusercontent.com/emwalks/HappyBirthday/master/HappyBirthdayApp.png)
+<img align="center" src="https://raw.githubusercontent.com/emwalks/HappyBirthday/master/HappyBirthdayApp.png" alt="appPreview" width="300"/>
+
