@@ -8,3 +8,4 @@ Techniques implemented & Learnings:
 - ConstraintLayout
 - ImageViews
 - Using the layout editor
+- Using resource manager
