@@ -9,3 +9,5 @@ Techniques implemented & Learnings:
 - ImageViews
 - Using the layout editor
 - Using resource manager
+
+![Image of App](https://raw.githubusercontent.com/emwalks/HappyBirthday/master/HappyBirthdayApp.png)
