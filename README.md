@@ -1,7 +1,7 @@
 # HappyBirthday
-App Project 1: Android Basics in Kotlin Course
-
 <img align="right" src="https://raw.githubusercontent.com/emwalks/HappyBirthday/master/HappyBirthdayApp.png" alt="appPreview" width="300"/>
+
+App Project 1: Android Basics in Kotlin Course
 
 This repo keeps track of my progress following the [Android Basics in Kotlin Course](https://developer.android.com/courses/android-basics-kotlin/course)
 
