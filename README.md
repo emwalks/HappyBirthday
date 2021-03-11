@@ -1,5 +1,5 @@
 # HappyBirthday
-<img align="right" src="https://raw.githubusercontent.com/emwalks/HappyBirthday/master/HappyBirthdayApp.png" alt="appPreview" width="300"/>
+<img align="right" src="https://github.com/emwalks/HappyBirthday/blob/master/app/src/main/res/drawable/androidparty.png" alt="appPreview" width="300"/>
 
 App Project 1: Android Basics in Kotlin Course
 
